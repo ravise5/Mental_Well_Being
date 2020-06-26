@@ -1,0 +1,45 @@
+<resources>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">wUgXaiiRFkdx2I93QzukCaA2ONAuhJruQ0W8RkLE</string>
+    <string name="back4app_client_key">ReXxowUOaq9RZavXl10iboFi4x1nobYXnf3imd6y</string>
+
+    <string name="app_name">Mental Well Being</string>
+    <string name="declaration">The information provided by the participant is only intended for research-related purposes.
+    We respect the privacy of our participants and assure you that we do not record any names or e-mail IDs.
+    Your responses will be completely anonymous.</string>
+    <string name="pssDesc">In this section, the questions will ask you about your feelings and thoughts during the last month. In each case, you will be asked to indicate how often you felt or thought a certain way.</string>
+    <string name="pss1">1. In the last month, how often have you been upset because of something that happened unexpectedly?</string>
+    <string name="pss2">2. In the last month, how often have you felt that you were unable to control the important things in your life?</string>
+    <string name="pss3">3. In the last month, how often have you felt nervous and “stressed”?</string>
+    <string name="pss4">4. In the last month, how often have you felt confident about your ability to handle your personal problems?</string>
+    <string name="pss5">5. In the last month, how often have you felt that things were going your way?</string>
+    <string name="pss6">6. In the last month, how often have you found that you could not cope with all the things that you had to do?</string>
+    <string name="pss7">7. In the last month, how often have you been able to control irritations in your life</string>
+    <string name="pss8">8. In the last month, how often have you felt that you were on top of things</string>
+    <string name="pss9">9. In the last month, how often have you been angered because of things that were outside of your control?</string>
+    <string name="pss10">10. In the last month, how often have you felt difficulties were piling up so high that you could not overcome them?</string>
+
+    <string name="ucla1">1. How often do you feel that you are in tune with the people around you?</string>
+    <string name="ucla2">2. How often do you feel that you lack companionship?</string>
+    <string name="ucla3">3. How often do you feel that there is no one you can turn to?</string>
+    <string name="ucla4">4. How often do you feel you are alone?</string>
+    <string name="ucla5">5. How often do you feel part of a group of friends?</string>
+    <string name="ucla6">6. How often do you feel that you have a lot in common with the people around you</string>
+    <string name="ucla7">7. How often do you feel that you are no longer close to anyone?</string>
+    <string name="ucla8">8. How often do you feel that your interests and ideas are not shared by those around you?</string>
+    <string name="ucla9">9. How often do you feel outgoing and friendly?</string>
+    <string name="ucla10">10. How often do you feel close to people?</string>
+    <string name="ucla11">11. How often do you feel left out?</string>
+    <string name="ucla12">12. How often do you feel your relationships with others are not meaningful?</string>
+    <string name="ucla13">13. How often do you feel that no one really knows you well?</string>
+    <string name="ucla14">14. How often do you feel isolated from others?</string>
+    <string name="ucla15">15. How often do you feel you can find companionship when you want it?</string>
+    <string name="ucla16">16. How often do you feel that there are people who really understand you?</string>
+    <string name="ucla17">17. How often do you feel shy?</string>
+    <string name="ucla18">18. How often do you feel there are people around you but not with you?</string>
+    <string name="ucla19">19. How often do you feel there are people you can talk to?</string>
+    <string name="ucla20">20. How often do you feel there are people you can turn to?</string>
+</resources>
