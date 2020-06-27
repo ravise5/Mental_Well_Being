@@ -3,8 +3,8 @@
     <string name="back4app_server_url">https://parseapi.back4app.com/</string>
 
     <!-- Change the following strings as required -->
-    <string name="back4app_app_id">wUgXaiiRFkdx2I93QzukCaA2ONAuhJruQ0W8RkLE</string>
-    <string name="back4app_client_key">ReXxowUOaq9RZavXl10iboFi4x1nobYXnf3imd6y</string>
+    <string name="back4app_app_id">Enter your app id</string>
+    <string name="back4app_client_key">Enter your app id</string>
 
     <string name="app_name">Mental Well Being</string>
     <string name="declaration">The information provided by the participant is only intended for research-related purposes.
